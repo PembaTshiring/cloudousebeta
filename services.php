@@ -61,8 +61,8 @@
 			<hr>
 			<div class="col-md-6">
 				<img src="images/4.jpg" class="img-responsive">
-				<p><b>We are one of the best human resource suppliers in Nepal and we are very proud to introduce ourselves to you. This company is recognized and authorized by Government of Nepal. We provied a very good opportunity for the outsourcing, we provide the human skill development traing for the related job.
-</b></p>
+				<p>We are one of the best human resource suppliers in Nepal and we are very proud to introduce ourselves to you. This company is recognized and authorized by Government of Nepal. We provied a very good opportunity for the outsourcing, we provide the human skill development traing for the related job.
+</p>
 			</div>
 			
 			<div class="col-md-6">
@@ -76,7 +76,7 @@
 								<h4 class="media-heading">Overseas Recruitment
 
 </h4>
-								<p><b>S&S Human Resource provide skilled and unskilled manpower to other countries.</b>
+								<p>S&S Human Resource provide skilled and unskilled manpower to other countries.
 
 </p>
 							</div>
@@ -89,7 +89,7 @@
 								<h4 class="media-heading">Human Skill Development Training & Orientation
 
 </h4>
-								<p><b>S&S Human Resource provides training and orientation to both skilled and unskilled manpower before sending them to other countries. We also provide Human Skill Development Training.</b>
+								<p>S&S Human Resource provides training and orientation to both skilled and unskilled manpower before sending them to other countries. We also provide Human Skill Development Training.
 
 </p>
 							</div>
@@ -102,7 +102,7 @@
 								<h4 class="media-heading">Travel Management
 
 </h4>
-								<p><b>S&S Human Resource provides travel management to all the workers who are going abroad as workers to abroad countries. We ensure they have hassle free travel before they are received by their working company </b></p>
+								<p>S&S Human Resource provides travel management to all the workers who are going abroad as workers to abroad countries. We ensure they have hassle free travel before they are received by their working company </p>
 							</div>
 						</li>
 					</ul>
@@ -110,7 +110,24 @@
 			</div>
 		</div>
 	</div>	
-	
+
+	<section id="partner">
+        <div class="container">
+          <div class="center wow fadeInDown">
+                <h2>Why Us</h2>
+                <p>With our associted partners from all over the world we ensure you get<br> the best job placements available.</p>
+
+            </div>   
+            <div class="center wow fadeInDown">
+            <p>We are proude to say that we are counted on the top best Human Resurces and MainPower companey in Nepal.<br>
+            		S&S is authorized by the Nepal Government.We are pleased to inform that we have recruited more then 1000 personnel of different categories to various companies of the world so far and look forward to supplying more in future.We make all efforts to keep in touch with workers sent abroad for employment until their contract is over and also ensure that the workers are adequately insured in case of serious injuries or death. We look toward the co-operation of labour importing countries for the supply of Nepalese human resources.
+            	 </p>
+             
+            </div>   
+             
+        </div><!--/.container-->
+    </section><!--/#partner-->
+			  
 
 	
 	

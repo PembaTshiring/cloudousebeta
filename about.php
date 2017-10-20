@@ -63,13 +63,13 @@
 			<div class="col-md-7 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 				<img src="images/7.jpg" class="img-responsive">
 				<h4>Introduction to who we are and what we do.</h4>
-				<p><b>S&S Human Resource P. Ltd. is a leading overseas employment consultant in Nepal. The company was established to meet the growing demand for Nepalese workforce abroad to alleviate growing unemployment in the country. The company exports a wide range of competent manpower- from semi-skilled to highly skilled professionals based on the demands of our valued clients. Thus, the company functions as a bridge between Nepal and manpower importing nations around the globe.</p>
+				<p>S&S Human Resource P. Ltd. is a leading overseas employment consultant in Nepal. The company was established to meet the growing demand for Nepalese workforce abroad to alleviate growing unemployment in the country. The company exports a wide range of competent manpower- from semi-skilled to highly skilled professionals based on the demands of our valued clients. Thus, the company functions as a bridge between Nepal and manpower importing nations around the globe.</p>
 				
 			</div>
 			<div class="col-md-5 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
 				<div class="skill">
 					<h2>Our Recruitment process</h2>
-					<p><b>We take our outsourcing service very seriously taking all the required stages till the document is processed.</b></p>
+					<p>We take our outsourcing service very seriously taking all the required stages till the document is processed.</p>
 
 					<div class="progress-wrap">
 						<h3>Enquiry</h3>
@@ -118,24 +118,24 @@
 			<h3>Our Team</h3>	
 				<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 					<img src="images/services/V_L_Das.jpg" alt="" >
-					<h4>Vhainab lal Das</h4>
-					<p><b>Executive Director of S&S Human Resource and Manpower</b></p>
+					<h4>Nishant Raj Poudel</h4>
+					<p>Executive Director of S&S Human Resource and Manpower</p>
 				</div>
 				<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
 					<img src="images/services/H_N_Das.jpg" alt="" >
 					<h4>H.N Das</h4>
-					<p><b>Chairman of S&S HumanResource and Manpower</b></p>
+					<p>Chairman of S&S HumanResource and Manpower</p>
 				</div>
 					<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
 					<img src="images/services/S_S_Chaudhari.jpg" alt="" >
 					<h4>Bhairo Lal Das</h4>
-					<p><b>Managing Director of S&S Human Resource and Manpower</b></p>
+					<p>Managing Director of S&S Human Resource and Manpower</p>
 				</div>
 				</div>
 					<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
 					<img src="images/services/S.S.jpg" alt="" >
 					<h4>Shiva Shankar Chaudhari</h4>
-					<p><b>Executive Director of S&S Human Resource and Manpower</b></p>
+					<p>Executive Director of S&S Human Resource and Manpower</p>
 				</div>
 			</div>
 		</div>
