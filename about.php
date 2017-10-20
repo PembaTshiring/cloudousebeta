@@ -27,7 +27,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<div class="navbar-brand">
-							<a href="index.html"><h1><span>Com</span>pany</h1></a>
+							<a href="index.php"><h1><span>Com</span>pany</h1></a>
 						</div>
 					</div>
 					
@@ -50,7 +50,7 @@
 	<div id="breadcrumb">
 		<div class="container">	
 			<div class="breadcrumb">							
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li>About Us</li>			
 			</div>		
 		</div>	
@@ -61,7 +61,7 @@
 			<h3>Our company information</h3>
 			<hr>
 			<div class="col-md-7 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-				<img src="images/7.jpg" class="img-responsive">
+				<img src="images/who.jpg" class="img-responsive">
 				<h4>Introduction to who we are and what we do.</h4>
 				<p>S&S Human Resource P. Ltd. is a leading overseas employment consultant in Nepal. The company was established to meet the growing demand for Nepalese workforce abroad to alleviate growing unemployment in the country. The company exports a wide range of competent manpower- from semi-skilled to highly skilled professionals based on the demands of our valued clients. Thus, the company functions as a bridge between Nepal and manpower importing nations around the globe.</p>
 				
@@ -146,9 +146,10 @@
 			<div class="container">
 				<div class="social-icon">
 					<div class="col-md-4">
-						<ul class="social-network">
-							<li><a href="#" class="fb tool-tip" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#" class="twitter tool-tip" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+						<ul class="soc">
+						    <li><a class="soc-twitter" href="#"></a></li>
+						    <li><a class="soc-facebook" href="#"></a></li>
+						    <li><a class="soc-googleplus" href="#"></a></li>
 						</ul>	
 					</div>
 				</div>

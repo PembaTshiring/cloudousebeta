@@ -52,7 +52,7 @@
 	<section id="main-slider" class="no-margin">
         <div class="carousel slide">      
             <div class="carousel-inner">
-                <div class="item active" style="background-image: url(images/slider/Group.jpg)">
+                <div class="item active" style="background-image: url(images/slider/bg1.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -69,20 +69,15 @@
         </div><!--/.carousel-->
    </section><!--/#main-slider-->
 	
-	<div class="feature">
-		<div class="container">
-			</div>
-		</div>
-	</div>
-	
 	<div class="about">
 		<div class="container">
+			<div class="col-md-12 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
+				<h1>OUR HISTORY</h1>
+			</div>
 			<div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
-				<h2>OUR HISTORY</h2>
-				<img src="images/6.jpg" class="img-responsive"/>
+				<img src="images/slider/group.jpg" class="img-responsive"/>
 				<p> S&S Human Resource P. Ltd. is a leading overseas employment consultant in Nepal. The company was established to meet the growing demand for Nepalese workforce abroad to alleviate growing unemployment in the country. The company exports a wide range of competent manpower- from semi-skilled to highly skilled professionals based  on the demands of our valued clients. Thus, the company functions as a bridge between Nepal and manpower importing nations around the globe.</p>
 			</div>
-			
 			<div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
 				<h2>We Want To Be The Reason Of Your Success</h2>
 				<p>Operating from its own Head Office building at, Kathmandu, Nepal, S&S Human Resource P. Ltd., is fully equipped with state of art facilities that an international standard company requires. The company uses different types of processes for sourcing its manpower. The semi-skilled and unskilled manpower are recruited through advertisement in mass media. We headhunt to meet the level of highly technical and professional manpower. Today, a large number of such manpower throng to our company for quality and prompt service.
@@ -94,7 +89,7 @@
 	<div class="lates">
 		<div class="container">
 			<div class="text-center">
-				<h2>OUR SPECIALITIES</h2>
+				<h1>OUR SPECIALITIES</h1>
 			</div>
 			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 				<img src="images/re1.png" class="img-responsive"/>
@@ -110,7 +105,7 @@
 			</div>
 			
 			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">				
-				<img src="images/value.png" class="img-responsive"/>
+				<img src="images/core.png" class="img-responsive"/>
 				<h3>CORE VALUES</h3>
 				<p> Work Professionally for Fair and Reward
 					 Work in Pressure to Meet Deadlines and Targets
@@ -147,9 +142,10 @@
 			<div class="container">
 				<div class="social-icon">
 					<div class="col-md-4">
-						<ul class="social-network">
-							<li><a href="Facebook.com" class="fb tool-tip" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="twitter.com" class="twitter tool-tip" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+						<ul class="soc">
+						    <li><a class="soc-twitter" href="#"></a></li>
+						    <li><a class="soc-facebook" href="#"></a></li>
+						    <li><a class="soc-googleplus" href="#"></a></li>
 						</ul>	
 					</div>
 				</div>
