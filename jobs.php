@@ -26,7 +26,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<div class="navbar-brand">
-							<a href="index.html"><h1><span>Com</span>pany</h1></a>
+							<a href="index.php"><h1><span>Com</span>pany</h1></a>
 						</div>
 					</div>
 					
@@ -49,18 +49,13 @@
 	<div id="breadcrumb">
 		<div class="container">	
 			<div class="breadcrumb">							
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li>Job Category</li>			
 			</div>		
 		</div>	
 	</div>
-	
-	<section id="portfolio">	
-        <div class="container">
-            <div class="center">
-               <p><b>A job is a a piece of work, especially a specific task done as part of the routine of one's occupation or for an agreed price</b></p>
-            </div>
-
+	<h2 style="text-align: center;">We provide job oppurtunity in the following sectors and many more.</h2><br>    
+	<section id="portfolio">
             <ul class="portfolio-filter text-center">
                 <li><a class="btn btn-default active" href="#" data-filter="*">All Works</a></li>
                 <li><a class="btn btn-default" href="#" data-filter=".bootstrap">Skilled</a></li>
@@ -76,7 +71,7 @@
                             <img class="img-responsive" src="images/portfolio/recent/item1.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Bartender</a></h3>
+                                    <h3>Bartender</h3>
                                     <p><b>A bartender is a person who formulates, serves alcoholic or soft drink beverages behind the bar, usually in a licensed establishment</b></p>
                                     <a class="preview" href="images/portfolio/full/item1.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
@@ -89,7 +84,7 @@
                             <img class="img-responsive" src="images/portfolio/recent/item2.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Driver</a></h3>
+                                    <h3>Driver</h3>
                                     <p><b>A person whose job is to drive a vehicle (such as a taxi, truck, or bus)</b></p>
                                     <a class="preview" href="images/portfolio/full/item2.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
@@ -102,7 +97,7 @@
                             <img class="img-responsive" src="images/portfolio/recent/item3.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Waiter</a></h3>
+                                    <h3>Waiter</h3>
                                     <p><b>Waiting staff are those who work at a restaurant or a bar, and sometimes in private homes, attending customers supplying them with food and drink as requested.</b></p>
                                     <a class="preview" href="images/portfolio/full/item3.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
@@ -115,7 +110,7 @@
                             <img class="img-responsive" src="images/portfolio/recent/item4.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Electrician</a></h3>
+                                    <h3>Electrician</h3>
                                     <p><b>An electrician is a tradesperson specializing in electrical wiring of buildings, stationary machines, and related equipment.</b></p>
                                     <a class="preview" href="images/portfolio/full/item4.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
@@ -128,7 +123,7 @@
                             <img class="img-responsive" src="images/portfolio/recent/item5.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Security Gard</a></h3>
+                                    <h3>Security Gard</h3>
                                     <p><b>A person employed by a private party to protect the employing party's property from a variety ofcriminal activity such as theft</b></p>
                                     <a class="preview" href="images/portfolio/full/item5.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
@@ -141,7 +136,7 @@
                             <img class="img-responsive" src="images/portfolio/recent/item6.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Factory Worker</a></h3>
+                                    <h3>Factory Worker</h3>
                                     <p><b>A person who worked for the factory indoor or outdoor</b></p>
                                     <a class="preview" href="images/portfolio/full/item6.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
@@ -154,7 +149,7 @@
                             <img class="img-responsive" src="images/portfolio/recent/item7.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Road construction</a></h3>
+                                    <h3>Road construction</h3>
                                     <p><b>To make road smoothed, paved, or otherwise prepared to allow easy travel.</b></p>
                                     <a class="preview" href="images/portfolio/full/item7.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
@@ -167,7 +162,7 @@
                             <img class="img-responsive" src="images/portfolio/recent/item8.png" alt="">
                             <div class="overlay">
                                 <div class="recent-work-inner">
-                                    <h3><a href="#">Butcher</a></h3>
+                                    <h3>Butcher</h3>
                                     <p><b>A butcher is a person who may slaughter animals, dress their flesh, sell their meat or participate within any combination of these three tasks.</b></p>
                                     <a class="preview" href="images/portfolio/full/item8.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
@@ -185,10 +180,11 @@
             <div class="container">
                 <div class="social-icon">
                     <div class="col-md-4">
-                        <ul class="social-network">
-                            <li><a href="#" class="fb tool-tip" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#" class="twitter tool-tip" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        </ul>   
+                        <ul class="soc">
+                            <li><a class="soc-twitter" href="#"></a></li>
+                            <li><a class="soc-facebook" href="#"></a></li>
+                            <li><a class="soc-googleplus" href="#"></a></li>
+                        </ul>  
                     </div>
                 </div>
                 

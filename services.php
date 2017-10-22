@@ -26,7 +26,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<div class="navbar-brand">
-							<a href="index.html"><h1><span>Com</span>pany</h1></a>
+							<a href="index.php"><h1><span>Com</span>pany</h1></a>
 						</div>
 					</div>
 					
@@ -49,8 +49,8 @@
 	<div id="breadcrumb">
 		<div class="container">	
 			<div class="breadcrumb">							
-				<li><a href="index.html">Home</a></li>
-				<li>Services</li>			
+				<li><a href="index.php">Home</a></li>
+				<li>Services</li>`
 			</div>		
 		</div>	
 	</div>
@@ -60,7 +60,7 @@
 			<h3>Company Services</h3>
 			<hr>
 			<div class="col-md-6">
-				<img src="images/4.jpg" class="img-responsive">
+				<img src="images/service.jpg" class="img-responsive">
 				<p>We are one of the best human resource suppliers in Nepal and we are very proud to introduce ourselves to you. This company is recognized and authorized by Government of Nepal. We provied a very good opportunity for the outsourcing, we provide the human skill development traing for the related job.
 </p>
 			</div>
@@ -136,10 +136,11 @@
             <div class="container">
                 <div class="social-icon">
                     <div class="col-md-4">
-                        <ul class="social-network">
-                            <li><a href="#" class="fb tool-tip" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#" class="twitter tool-tip" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        </ul>   
+                        <ul class="soc">
+						    <li><a class="soc-twitter" href="#"></a></li>
+						    <li><a class="soc-facebook" href="#"></a></li>
+						    <li><a class="soc-googleplus" href="#"></a></li>
+						</ul>   
                     </div>
                 </div>
                 

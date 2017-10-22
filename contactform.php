@@ -27,7 +27,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<div class="navbar-brand">
-							<a href="index.html"><h1><span>Com</span>pany</h1></a>
+							<a href="index.php"><h1><span>Com</span>pany</h1></a>
 						</div>
 					</div>
 					
@@ -50,15 +50,16 @@
 	<div id="breadcrumb">
 		<div class="container">	
 			<div class="breadcrumb">							
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li>Contact</li>			
 			</div>		
 		</div>	
 	</div>
-	
+	<div class="container-fluid">
 	<div class="map">
-		<div id="google-map" data-latitude="27.7172" data-longitude="85.3240"></div>
-	</div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5943.426195868901!2d85.32781790832821!3d27.6560174749757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1763afe90a91%3A0x24e78f10fcea8163!2sSatdobato%2C+Patan+44700!5e0!3m2!1sen!2snp!4v1508522182821" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
+</div>
 	
 	<section id="contact-page">
         <div class="container">
@@ -113,10 +114,11 @@
             <div class="container">
                 <div class="social-icon">
                     <div class="col-md-4">
-                        <ul class="social-network">
-                            <li><a href="#" class="fb tool-tip" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#" class="twitter tool-tip" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        </ul>   
+                        <ul class="soc">
+						    <li><a class="soc-twitter" href="#"></a></li>
+						    <li><a class="soc-facebook" href="#"></a></li>
+						    <li><a class="soc-googleplus" href="#"></a></li>
+						</ul>
                     </div>
                 </div>
                 
