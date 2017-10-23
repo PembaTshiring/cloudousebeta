@@ -150,9 +150,8 @@ a:hover {
 }
 .logo img{
   margin: auto;
-    height: 100px;
+    height: 90px;
     position: relative;
-    bottom: 22px;
 }
 
 /*===========================
@@ -351,7 +350,6 @@ a:hover {
 }
 
 #conatcat-info{
-  background: #fff url(../images/contact.jpg) no-repeat 90% 0;
   padding: 30px 0;
   border: 1px solid;
   border-top-color: #ddd;
@@ -380,6 +378,11 @@ box-shadow: 0px -4px 10px -6px rgba(0,0,0,0.75);
 }
 .contact-info a:hover{
   color: #1bbd36;
+}
+.contact-info img{
+  height: 80px;
+  float: right;
+
 }
 
 /* --- about us --- */
