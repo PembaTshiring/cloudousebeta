@@ -148,7 +148,12 @@ a:hover {
 	-webkit-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 }
-
+.logo img{
+  margin: auto;
+    height: 100px;
+    position: relative;
+    bottom: 22px;
+}
 
 /*===========================
   slider
